@@ -10,7 +10,7 @@ mkdir ../production
 cp bundle-v0.0.0.tbz2 ../production
 cd ../production
 
-tar xf ../minTeleBug/bundle-v0.0.0.tbz2
+tar xf bundle-v0.0.0.tbz2
 ./deploy.sh
 ```
 
